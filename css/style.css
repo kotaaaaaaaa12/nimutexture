@@ -1,0 +1,22 @@
+@charset "utf-8";
+body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(226, 255, 255);
+    background-repeat: no-repeat;
+    background-position:50% 50%;
+    background-size:contain;
+    font-family: "Nico Moji";
+  }
+h1{
+    text-align: center;
+    color: black;
+    font-family: "M PLUS Rounded 1c";
+}
+p1{
+    color: black;
+}
+a{
+    display: inline-block;
+}
